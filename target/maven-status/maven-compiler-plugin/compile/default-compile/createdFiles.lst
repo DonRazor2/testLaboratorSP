@@ -1,0 +1,6 @@
+entity\PostNote$PostNoteBuilder.class
+boundary\Note.class
+entity\PostNote.class
+boundary\Hello.class
+control\NotesController.class
+com\example\testServerApplication\HelloApplication.class
